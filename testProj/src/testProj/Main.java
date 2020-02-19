@@ -5,5 +5,6 @@ public class Main {
 		System.out.println("gagaga");
 		//bad
 		System.out.println("gugugu");
+		aytku
 	}
 }
